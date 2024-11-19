@@ -1,0 +1,18 @@
+Summary,Prediction With Watermark,Z-Score With Watermark,Prediction Without Watermark,Z-Score Without Watermark,Difference in Z-Score
+1,FALSE,2.263,FALSE,0.103,2.16
+2,TRUE,5.604,FALSE,0.471,5.133
+3,TRUE,5.461,FALSE,0.174,5.287
+4,TRUE,5.921,FALSE,1.549,4.372
+5,FALSE,2.828,FALSE,2.828,0
+6,FALSE,3.311,FALSE,0.149,3.162
+7,TRUE,7.488,FALSE,0.632,6.856
+8,FALSE,2.74,FALSE,1.192,1.548
+9,TRUE,5.722,FALSE,0.75,4.972
+10,TRUE,5.773,FALSE,0.872,4.901
+11,TRUE,4.554,FALSE,1.423,3.131
+12,FALSE,2.84,FALSE,-0.258,3.098
+13,TRUE,4.041,FALSE,-1.154,5.195
+14,FALSE,3.726,FALSE,0,3.726
+15,TRUE,6.113,FALSE,-1.392,7.505
+16,TRUE,4.677,FALSE,0.654,4.023
+,,,,,Clearly a big difference in the Z scores between watermarked and non watermarked text
